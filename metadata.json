@@ -1,0 +1,6 @@
+{
+  "name": "Soha Farhat — Presentation Deck",
+  "description": "Interactive 7-slide architectural presentation deck for Soha Farhat with Google Slides integration, capacity matrix, and culture study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
